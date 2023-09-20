@@ -28,3 +28,17 @@
 <p align="left"> <font color="black" size="3" face="Arial"> :'-) usmiech do lez </font> </p> <br>
 </body>
 </html>
+﻿<!DOCTYPE html>
+ <html lang="pl-PL">
+<html>
+<head>
+ <meta charset="utf-8">
+ <title> </title>
+</head>
+<body>
+<p align="left"> <font color="black" size="2" face="'Courier New'"> 80-432,<u>Gdańsk</u>,ul.Miszewskiego z Miszewskiego 7/2, 53</font> </p> <br>
+<p align="center"> <font color="blue" size="3" face="'Times New Roman'">aktor: Sergey Burunow </font> </p> <br>
+<p align="center"> <font color="black" size="4" face=" Verdana">spiewak:<font color="red" size="4" face=" Verdana"> Tatoul Avoyan </font> </p> <br>
+<p align="center"> <font color="yellow" size="5" face="Arial">data urodzenia: 24 maja 1945 </font> </p> <br>
+</body>
+</html>
