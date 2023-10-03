@@ -30,7 +30,6 @@
 <html>
 <head>
  <meta charset="utf-8">
- <title> </title>
 </head>
 <body>
  <p align="left"> <font color="black" size="2" face="'Courier New'"> 80-432,<u>Gdańsk</u>,ul.Miszewskiego z Miszewskiego 7/2, 53</font> </p> <br>
@@ -48,7 +47,6 @@
 <html>
 <head>
  <meta charset="utf-8">
- <title> Maksim Medusheuski </title>
 </head>
 <body bgcolor="green"></body>
   <HR SIZE=2 WIDTH=100% ALIGN=LEFT COLOR=green>
