@@ -4,7 +4,6 @@
 <html>
 <head>
  <meta charset="utf-8">
- <title>Maksim Medusheuski </title>
 </head>
 <body>
 <p align="right"> <font color="yellow" size="2" face="Arial"> Maksim </font> </p> <br>
