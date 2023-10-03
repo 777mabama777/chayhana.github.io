@@ -25,7 +25,6 @@
 <p align="left"> <font color="green" size="3" face="Verdana"> ._. obojętność lub lekceważenie czegoś </font> </p> <br>
 <p align="left"> <font color="brown" size="3" face="'Courier New'"> (_!_) dupa </font> </p> <br>
 <p align="left"> <font color="black" size="3" face="Arial"> :'-) usmiech do lez </font> </p> <br>
- ﻿﻿<!DOCTYPE html>
  <html lang="pl-PL">
 <html>
 <head>
@@ -50,13 +49,13 @@
 </head>
 <body bgcolor="green"></body>
   <HR SIZE=2 WIDTH=100% ALIGN=LEFT COLOR=green>
-<h1> <align=left size=5> O lekarzach </h1><!-med_m->
+<h1 align=left size=5> O lekarzach </h1><!-med_m->
  Przychodzi baba do lekarza.<br>
 - Panie doktorze mam gwiżdżące piersi.<br>
 - To niemożliwe. Niech pani zdejmie biustonosz.&amp; <br>
 Baba zdjęła biustonosz, &ordf; piersi fiuuuuuuuu&acute; , gwizdnęły o podłogę!<br>
   <HR SIZE=4 WIDTH=100% ALIGN=LEFT COLOR=red>
-<h2> <size=3><center> O "sporcie"</center> </h2><!-med_m->
+<h2 size=3><center> O "sporcie"</center> </h2><!-med_m->
 Jasio chwali się koledze:<br>
 - Mój brat przebiegł&ordm; wczoraj pięć kilometrów w pięć minut!<br>
 - Nie kłam! Nawet mistrz świata nie jest w stanie osiągnąć tak dobrego wyniku!<br>
@@ -72,6 +71,5 @@ Mama uczy synka liczyć, zadaje pytania:<br>
 – Mamo, czy ty nigdy nie widziałaś psa?&iexcl;<br>
   <HR SIZE=5 WIDTH=60% ALIGN=right COLOR=blue>
   <h4 align="left" size="4">nazwisko&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;imie </h4>
-   <h5 align="left" size="4">Medusheuski&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Maksim </h5><!-med_m,koniec->
-</body>
+   <h5 align="left" size="4">Medusheuski&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Maksim 
 </html>
