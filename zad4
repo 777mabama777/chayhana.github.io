@@ -15,30 +15,32 @@
   <li>Python</li> 
   <li>Java</li><li>HTML</li> </ul>
   <ul type="disc"> <li> UTK</li>
-  <li>PRACOWNIA Witr. i apl.</li> <li>SIECIOWY SYSTEM OPIERACYJNY</li>
+  <li>PRACOWNIA Witr. i apl.</li> <li>SIECIOWE SYSTEMY OPIERACYJNE</li>
   </ul> </fieldset>
   <fieldset> <div style="background-color:gray;color:red; padding-top: 35px;">
   <h2>Poniżej są trzy numerowania z różnymi znakami numerowania</h2> <h3>Ty zaproponuj swoje, związane z informatyką</h3>
-  <ol type="A"> <li>EGZAMIN INFORMATYCZNY</li>
-  <li>lAPTOP LUB KOMPUTER</li> <li>KARTA GRAFICZNA</li>
+  <ol type="A"> <li>PŁYTA GŁÓWNA</li>
+  <li>KONSOLA LUB KOMPUTER</li> <li>MATURA Z UTK</li>
   </ol> <OL TYPE="1">
-  <li> adblock – wtyczka dla przeglądarek internetowych, która umożliwia blokowanie wyświetlania reklam na stronach internetowych </li> <li>admin – osoba administrująca zasobami sieci komputerowej </li>
-  <li> adres IP – adres używany do jednoznacznej identyfikacji komputera w sieci Internet składający się w wersji Ipv4 z 4 liczb oddzielonych kropkami np. 192.168.27.198 </li> </OL>
- <ol type="I"> <li>apka – aplikacja do pobrania na urządzenia mobilne </li>
-  <li> audiobook [wym. audio buk] – książka przeznaczona do słuchania, zarejestrowana zwykle w formacie MP3 </li> <li>autouzupełnianie – dynamiczne uzupełnianie często wykorzystywanych wyrazów lub całych fraz w trakcie ich wpisywania przez użytkownika w celu przyspieszenia szybkości wprowadzania tekstu </li>
+  <li> HALF DUQLEX-TO RODZAJ TRANSMISJI DANYCH,W KTÓREJ INFORMACJA MOŻE BYĆ PRZESYŁANA TYLKO W JEDNYM KIERUNKU np: NADAJE lub ZABIERA </li> <li>VRR- ZMIENNA CZĘSTLIWOŚĆ ODSWIEŻANIA OBRAZU </li>
+  <li> admin – osoba administrująca zasobami sieci komputerowej </li> </OL>
+ <ol type="I"> <li>apk – aplikacja do pobrania na urządzenia mobilne </li>
+  <li> T9- metoda wprowadzania tekstu na telefonach komórkowych, które posiadają klawiatury numeryczne, gdzie każda cyfra reprezyntuje kilka liter </li> <li>zip- popularny format kompresji plików, który umożliwia zmniejszenie rozmiaru plików, aby łatwiej można byłoje udostępniać lub przechowywać </li>
   </ol> </fieldset>
    <br><br><br><fieldset>
     <div style="background-color:black;color:lightblue; padding-top: 50px;"> <h2>Poniżej będą trzy poziomy numerowania/wyliczenia z rużnymi rodzajami numerowania/wyliczenia</h2>
   <h3>Ty zaproponuj swoje, związane z informatyką</h3> <OL>
   <LI> wewnętrzne komputera: <OL type=I>
-  <LI> Płyta główna <LI> Karta graficzna
-  <LI> procesor </OL>
+  <LI> Płyta główna <LI> Karta sieciowa
+  <LI> Dysk twardy </OL>
    <LI> Urządzenia zewnętrzne komputera <OL type=square>
    <LI> Monitor(MATRYCA) <OL type=a>
      <LI> OLED <LI> LCD
+       <LI>IPS</UL>
      </OL> <LI> drukarka
      <OL type=circle> <LI> igłowa
        <LI> laserowa <LI> termowa
+         <LI> atramentowa</UL>
   </OL> </OL>
         </OL> <UL>
             <LI> sieci komputerowe: <UL>
@@ -46,7 +48,8 @@
                     <LI> praktyczne podłączenie do Internetu za pomocą RJ45 </UL>
             <LI> usługi internetowe: <UL>
                     <LI> strony WWW <LI> Mail/Gmail
-                    <LI> Alegro </UL>
+                    <LI> Allegro 
+               <LI> CENEO </UL>
         </UL> </fieldset>
 </body>
 
